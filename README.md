@@ -16,7 +16,7 @@ Este repositório é open source! Se você tem um aplicativo Java útil que gost
 
 Faça um fork deste repositório.
 
-Adicione seus arquivos .jar na pasta apps/.
+Adicione seus arquivos .jar 
 
 Crie uma descrição simples do que seu aplicativo faz e como ele pode ser executado.
 
