@@ -1,2 +1,23 @@
 # JarUtilities
-Um repositório cheio de aplicativos Java utéis para o dia a dia.
+
+**JarUtilities** é um repositório open source com uma coleção de aplicativos Java úteis para o dia a dia. Ele contém ferramentas simples que podem ser usadas para facilitar diversas tarefas. O objetivo é criar um conjunto de utilitários práticos e acessíveis para todos!
+
+## Requisitos
+
+Para executar os arquivos `.jar` deste repositório, é necessário ter o [Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) instalado na sua máquina. Se você ainda não tiver o Java instalado, siga as instruções no link acima para fazer o download e instalação.
+
+# Contribuições
+Este repositório é open source! Se você tem um aplicativo Java útil que gostaria de adicionar, sinta-se à vontade para contribuir. Aqui estão algumas orientações para ajudar:
+
+Faça um fork deste repositório.
+
+Adicione seus arquivos .jar na pasta apps/.
+
+Crie uma descrição simples do que seu aplicativo faz e como ele pode ser executado.
+
+Faça um pull request com a sua contribuição.
+
+Ao adicionar novos arquivos, por favor, assegure-se de que o código está bem organizado e que o aplicativo funciona corretamente com a versão mais recente do Java.
+
+  
+
