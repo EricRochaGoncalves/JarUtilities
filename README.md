@@ -1,4 +1,4 @@
-# JarUtilities
+# ☕ JarUtilities
 
 **JarUtilities** é um repositório open source com uma coleção de aplicativos Java úteis para o dia a dia. Ele contém ferramentas simples que podem ser usadas para facilitar diversas tarefas. O objetivo é criar um conjunto de utilitários práticos e acessíveis para todos!
 
