@@ -6,7 +6,9 @@
 
 Para executar os arquivos `.jar` deste repositório, é necessário ter o [Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) instalado na sua máquina. Se você ainda não tiver o Java instalado, siga as instruções no link acima para fazer o download e instalação.
 
-[AppLauncher.jar](https://github.com/EricRochaGoncalves/JarUtilities/blob/main/App%20Launcher/AppLauncher.jar)
+## Aplicações Java utéis para o seu dia a dia
+
+[Inicializador de programas.jar](https://github.com/EricRochaGoncalves/JarUtilities/blob/main/App%20Launcher/AppLauncher.jar) 
 
 
 # Contribuições
