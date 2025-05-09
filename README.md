@@ -6,11 +6,8 @@
 
 Para executar os arquivos `.jar` deste repositório, é necessário ter o [Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) instalado na sua máquina. Se você ainda não tiver o Java instalado, siga as instruções no link acima para fazer o download e instalação.
 
-### Como baixar e executar os arquivos `.jar`:
+[Baixar meuApp.jar](https://github.com/seu-usuario/nome-do-repositorio/raw/main/apps/meuApp.jar)
 
-1. Navegue até o repositório e encontre o arquivo `.jar` que deseja.
-2. Faça o download do arquivo desejado.
-3. No **Windows**, basta dar um duplo clique no arquivo `.jar` para executá-lo. Se o Java estiver corretamente instalado e configurado, o aplicativo abrirá normalmente.
 
 # Contribuições
 Este repositório é open source! Se você tem um aplicativo Java útil que gostaria de adicionar, sinta-se à vontade para contribuir. Aqui estão algumas orientações para ajudar:
