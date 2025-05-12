@@ -1,0 +1,7 @@
+// Definição de variáveis
+
+Wv nome = "Toshio"
+Wv idade = "todos"
+
+// Concatenando mensagens e convertendo para código morse
+IncMessage("Meu nome é:  " + nome + " e minha idade é: " + idade + " os anos!")
