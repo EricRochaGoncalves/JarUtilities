@@ -8,7 +8,8 @@ Para executar os arquivos `.jar` deste repositório, é necessário ter o [Java]
 
 ## Aplicações Java utéis para o seu dia a dia
 
-[Inicializador de Programas ](https://github.com/EricRochaGoncalves/JarUtilities/blob/main/App%20Launcher/AppLauncher.jar) 
+[Inicializador de Programas ](https://github.com/EricRochaGoncalves/JarUtilities/blob/main/App%20Launcher/AppLauncher.jar) <br>
+[Conversor de texto para código morse ](https://github.com/EricRochaGoncalves/JarUtilities/blob/main/App%20Launcher/AppLauncher.jar) 
 
 
 # Contribuições
